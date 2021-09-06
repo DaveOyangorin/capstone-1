@@ -1,0 +1,123 @@
+.bg {
+  background-color: #f0f1f4;
+}
+nav {
+	font-family: 'ABeeZee', sans-serif; padding: 3rem;
+  font-size: 20px;
+  color: #0C4160;
+}
+
+
+nav ul{
+  font-size: 25px;
+}
+#hi {
+  font-size: 50px;}
+
+#im-dave {
+  font-size:100px;
+  }
+
+#dave{
+  font-size:100px}
+
+.container1 {
+  min-height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.sec{
+  background-image: url('./images/asd.jpg');
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: top center;
+
+}
+
+
+
+
+
+.container1 {
+  min-height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;}
+
+.sec1 {
+  padding-top: 300px;
+}
+
+
+
+.container2 {
+  min-height: 50vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+/*What i do*/
+
+#about-me {
+  font-size: 2rem;
+  background-color: #C3BEF7;
+}
+
+.img1 {
+  height: 500px;
+}
+
+
+.card-img-top {
+  height: 400px;
+}
+
+/*map*/
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+}
+.map-responsive iframe{
+    height:450px;
+    width:600px;
+    position:absolute;
+}
+
+/*footer*/
+
+.img img{width: 50px;
+    height: 50px;}
+
+#map-container-google-2{width: 700px
+height:400px;}
+
+.rounded-circle {
+  width: 15vw;
+  height: auto;
+  border-radius: 80%;
+}
+
+.says {
+  display:block;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+
+
+
+#about-me-pic{
+  margin:5em;
+  display:flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+
+.iconic{width:40px;
+height: 40px;}
